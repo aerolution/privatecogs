@@ -1,0 +1,11 @@
+{
+    "author": "Kaitlyn",
+    "bot_version_requirement": "3.5.2",
+    "description": "A Red-DiscordBot cog that fetches TikTok videos from the 'For You' page and posts them to the chat using the :fyp command.",
+    "install_msg": "Thanks for installing the TikTokFYP cog!",
+    "name": "TikTokFYP",
+    "short": "Fetch TikTok videos from the 'For You' page",
+    "tags": ["tiktok", "fyp", "video"],
+    "type": "cog",
+    "version": "1.0.0"
+}
