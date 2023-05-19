@@ -1,4 +1,4 @@
-from .fyp import TikTokFYP
+from .tiktokfyp import TikTokFYP
 
-def setup(bot):
-    bot.add_cog(TikTokFYP(bot))
+async def setup(bot):
+   await bot.add_cog(TikTokFYP(bot))
